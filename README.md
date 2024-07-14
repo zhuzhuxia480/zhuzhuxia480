@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-TODO ： change the appearance of profile, follow the example of [lrstanley](https://github.com/lrstanley).
+<!-- TODO ： change the appearance of profile, follow the example of [lrstanley](https://github.com/lrstanley). -->
 
+ 
