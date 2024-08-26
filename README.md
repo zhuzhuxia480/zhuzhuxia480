@@ -9,10 +9,14 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about **anything about web libraries/frameworks and web3**
 - 📫 How to reach me: **lihaoggb@gmail.com 742491842@qq.com**
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-
+⚡ My skill list: 
+  - C/C++
+  - golang
+  - shell
+  - java
+  - web3...
+<!-- js, ts, react, nextjs, web3>
 <!-- TODO ： change the appearance of profile, follow the example of [lrstanley](https://github.com/lrstanley). -->
 
  
