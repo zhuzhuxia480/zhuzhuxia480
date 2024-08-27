@@ -27,7 +27,7 @@
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@atharvadeosthale" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="atharvadeosthale" height="30" width="40" /></a>
 </p>
-
+<span align="left">
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhuzhuxia480&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
 </span>
 <span align="right">
