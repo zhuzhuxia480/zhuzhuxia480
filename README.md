@@ -28,8 +28,8 @@
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="atharvadeosthale" height="30" width="40" /></a>
 </p>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhuzhuxia480&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
-</span>
-<span align="right">
-![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zhuzhuxia480&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
-</span>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhuzhuxia480&" alt="zhuzhuxia480" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zhuzhuxia480&show_icons=true&locale=en" alt="zhuzhuxia480" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhuzhuxia480&show_icons=true&locale=en&layout=compact" alt="zhuzhuxia480" /></p>
