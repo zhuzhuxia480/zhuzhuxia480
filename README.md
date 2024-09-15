@@ -17,7 +17,10 @@
   - java
   - web3...
 <!-- js, ts, react, nextjs, web3>
-<!-- TODO ： change the appearance of profile, follow the example of [lrstanley](https://github.com/lrstanley). -->
+<!-- TODO ： 
+change the appearance of profile, follow the example of [lrstanley](https://github.com/lrstanley). 
+https://github.com/devmaster116
+-->
 
  
 <h3 align="left">Connect with me:</h3>
